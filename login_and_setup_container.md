@@ -60,7 +60,9 @@ In it, type run `srun`. The most recent command you typed with that keyword will
 
 ## Starting a container
 
-To build or run our code, you need to be inside a container environment.  [Containers explained in a 4 minute video with an overdone introduction](https://www.youtube.com/watch?v=pR-cGS6IGvI)
+To build or run our code, you need to be inside a container environment.
+* [Containers explained in a 4 minute video with an overdone introduction](https://www.youtube.com/watch?v=pR-cGS6IGvI)
+* More details than you probably want. [Video](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
 
 First, we need to activate the container system.
 

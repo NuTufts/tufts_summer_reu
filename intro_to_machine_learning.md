@@ -6,6 +6,18 @@ A resource I used in the past, that I thought worked well is Andreq Ng's online 
 * Exercises: working on it
 The videos cover the basics of many methods. For the work in our group, this is a possible path through the material.
 
+### Using Google Colab notebooks
+
+I adapted the exercises from the course to use google colab notebooks. 
+The notebooks first walks through the solution through single variable linear regression via exercises.  
+The multivariable regression asks you to mostly implement the solution yourself.
+
+To use the notebooks, you'll need to have a Google Drive account. 
+
+First, copy the notebook you want to use into some folder in your Google Drive.
+
+Second, copy the data used in the exercises to your Google Drive. A [link to the data folder](https://drive.google.com/drive/folders/1Ex-ajCUx4bPHRNBFR_bB39Qxxgu3owEq?usp=drive_link) on my drive.
+
 ## Units
 
 ### Unit 1: Foundations
